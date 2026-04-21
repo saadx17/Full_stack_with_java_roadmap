@@ -2,6 +2,7 @@
 
 Welcome to the Full Stack with Java Roadmap! This repository contains notes, guides etc.
 First of all, to use the .md files, you must download Obsidian.
+Link for Obsidian: https://obsidian.md
 
 ## Contents
 1. Java
