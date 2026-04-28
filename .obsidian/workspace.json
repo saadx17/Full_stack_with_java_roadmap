@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f90fae51434c4d48",
+        "id": "89bec5576d003669",
         "type": "tabs",
         "children": [
           {
-            "id": "c860b401c9446249",
+            "id": "83a7e9f0c7a93251",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "EntryLog.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "EntryLog"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/3. Variables & Data Types.md",
+                "file": "Java/11. Loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Variables & Data Types"
+              "title": "Backlinks for 11. Loops"
             }
           },
           {
@@ -179,23 +183,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "10f94ae185d79f95",
+  "active": "83a7e9f0c7a93251",
   "lastOpenFiles": [
-    "Java/9. Control Flow - if-else.md",
-    "Java/10. Control Flow - Switch & Ternary.md",
-    "EntryLog.md",
     "README.md",
-    "Untitled.base",
+    "EntryLog.md",
+    "Java/11. Loops.md",
+    "Java/10. Control Flow - Switch & Ternary.md",
+    "Java/9. Control Flow - if-else.md",
+    "Java/8. Operators.md",
+    "Java/7. String.md",
     "Java/6. Constants.md",
     "Java/5. Type Casting & Variable Naming.md",
     "Java/4. Data Types & Variables.md",
     "Java/3. Hello World.md",
+    "Untitled.base",
     "Java/2. How JAVA works.md",
     "Java/1. JAVA, JVM, JDK, JRE.md",
-    "Java/8. Operators.md",
     "Untitled.canvas",
     "2026-04-23.md",
-    "Java/7. String.md",
     "BeforeYouStart/JAVA Environment Setup.md",
     "Before_you_start/JAVA Environment Setup.md",
     "Before_you_start",

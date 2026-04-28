@@ -18,3 +18,6 @@ Studied Control Flow 1 (if-else). This week, I've a lot of work. I will try my b
 
 ##### 25th April, 2026 | 11:46 AM
 Studied Control Flow 2 (Switch & Ternary).
+
+##### 28th April, 2026 | 04:05 PM
+Upgraded my machine to Macbook Air M4. So, Missed 2 days of work. Today's topic was fractions of Loops.
