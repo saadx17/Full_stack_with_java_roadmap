@@ -21,3 +21,6 @@ Studied Control Flow 2 (Switch & Ternary).
 
 ##### 28th April, 2026 | 04:05 PM
 Upgraded my machine to Macbook Air M4. So, Missed 2 days of work. Today's topic was fractions of Loops.
+
+##### 29th April, 2026 | 07:36 PM
+Got bored of JAVA, so as an addition to the roadmap, we're studying MySQL database.

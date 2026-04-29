@@ -5,6 +5,7 @@ First of all, download Obsidian for better studying. Link for Obsidian: https://
 
 ## Contents
 1. Java
+2. Database (MySQL)
 
 *(More content will be added as the roadmap progresses)*
 
@@ -23,5 +24,9 @@ First of all, download Obsidian for better studying. Link for Obsidian: https://
 
 *(More content will be added as the roadmap progresses)*
 
+### Database (MySQL)
+1. Introduction.
 
-Studied & Authored by Abdullah Al Sayb Saad.
+*(More content will be added as the roadmap progresses)*
+
+## Studied & Authored by Abdullah Al Sayb Saad.

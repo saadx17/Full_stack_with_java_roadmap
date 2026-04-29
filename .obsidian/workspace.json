@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83a7e9f0c7a93251",
+            "id": "b69ca59a01efe227",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,9 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "83a7e9f0c7a93251",
+  "active": "b69ca59a01efe227",
   "lastOpenFiles": [
     "README.md",
+    "MySQL/1. Introduction.md",
+    "Assets/Screenshot 2026-04-29 at 7.28.36 PM.png",
+    "Assets/Screenshot 2026-04-29 at 7.05.10 PM.png",
+    "Screenshot 2026-04-29 at 7.05.10 PM.png",
+    "MySQL",
     "EntryLog.md",
     "Java/11. Loops.md",
     "Java/10. Control Flow - Switch & Ternary.md",
