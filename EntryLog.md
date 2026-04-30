@@ -27,3 +27,6 @@ Got bored of JAVA, so as an addition to the roadmap, we're studying MySQL databa
 
 ##### 30th April, 2026 | 04:00 PM
 Completed Introduction part for MySQL.
+
+###### 09:36 PM
+Completed Loops.
