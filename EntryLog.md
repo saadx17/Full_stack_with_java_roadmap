@@ -12,7 +12,6 @@ I'm out.
 ##### 24th April, 2026 | 02:14 AM
 It's night, I couldn't sleep. So I studied another topic, "Operators".
 I'm out.
-
 ###### 09:07 PM
 Studied Control Flow 1 (if-else). This week, I've a lot of work. I will try my best to be consistent. I have to study  Database for my quiz this week. So, Let's see what happens.
 
@@ -27,6 +26,10 @@ Got bored of JAVA, so as an addition to the roadmap, we're studying MySQL databa
 
 ##### 30th April, 2026 | 04:00 PM
 Completed Introduction part for MySQL.
-
 ###### 09:36 PM
 Completed Loops.
+
+##### 1st May, 2026 | 11:55 AM
+Today is Friday. So, I've studied hard.
+Completed Data Models, Keys, Relationships, Normalization & Denormalization. Also, I've realized I have to rework JAVA. There are too much information to study. I'll make those shot and easy to understand.
+I'm Out.

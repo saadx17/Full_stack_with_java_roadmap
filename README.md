@@ -5,7 +5,7 @@ First of all, download Obsidian for better studying. Link for Obsidian: https://
 
 ## Contents
 1. Java
-2. Database (MySQL)
+2. Database - MySQL
 
 *(More content will be added as the roadmap progresses)*
 
@@ -26,6 +26,11 @@ First of all, download Obsidian for better studying. Link for Obsidian: https://
 
 ### Database (MySQL)
 1. Introduction.
+2. Data Models
+3. Keys
+4. Relationships
+5. Normalization & Denormalization
+6. ACID
 
 *(More content will be added as the roadmap progresses)*
 
