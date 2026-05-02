@@ -38,3 +38,6 @@ Made a java project using (1-8) Chapters. Reworked JAVA completely. Added ACID i
 
 ##### 2nd May, 2026 | 02:27 PM
 The database roadmap was quite messy and I am trying to fix it. My finals are just at the corner, I might not upload for the next 2 weeks. But I will try my best to stay consistent.
+
+##### 3rd May, 2026 | 12:56 AM
+Updated Database - MySQL. Reworked entire MySQL roadmap, some works are remaining. Working on it.

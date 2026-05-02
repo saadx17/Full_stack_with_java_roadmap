@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b215e51594ab6a66",
+        "id": "319c53722745675e",
         "type": "tabs",
         "children": [
           {
-            "id": "602c997f40496daf",
+            "id": "df3b2727736445ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,20 +183,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "602c997f40496daf",
+  "active": "df3b2727736445ec",
   "lastOpenFiles": [
     "README.md",
     "EntryLog.md",
+    "Database-MySQL/4. Keys.md",
+    "Database-MySQL/3. Data Models.md",
+    "Assets/hierarchical_model.jpg",
+    "Assets/relational-model.png",
     "Database-MySQL/2. MySQL Data Types.md",
+    "Database-MySQL/7. Normalization & Denormalization.md",
+    "Database-MySQL/6. ACID.md",
+    "Database-MySQL/5. Relationships.md",
+    "Database-MySQL/8. SQL Commands.md",
+    "Database-MySQL/1. Introduction.md",
+    "Assets/SQL_Commands.png",
     "BeforeYouStart/MySQL Environment Setup.md",
     "BeforeYouStart/JAVA Environment Setup.md",
-    "Database-MySQL/3. SQL Commands.md",
-    "Database-MySQL/1. Introduction.md",
-    "Database-MySQL/5. Keys.md",
-    "Database-MySQL/8. Normalization & Denormalization.md",
-    "Database-MySQL/7. ACID.md",
-    "Database-MySQL/6. Relationships.md",
-    "Database-MySQL/4. Data Models.md",
     "X.md",
     "Java/1. Introduction.md",
     "Java/9. Control Flow - if-else.md",
@@ -210,7 +213,6 @@
     "Java/4. Data Types, Variables & Memory.md",
     "Assets/hierarchical-model.svg",
     "hierarchical-model.svg",
-    "Assets/relational-model.png",
     "Assets/ER_Diagram.png",
     "Java/3. Hello World.md",
     "Assets/Screenshot 2026-04-29 at 7.05.10 PM.png",
@@ -220,13 +222,10 @@
     "Untitled.base",
     "Untitled.canvas",
     "2026-04-23.md",
-    "Before_you_start/JAVA Environment Setup.md",
     "Before_you_start",
     "Assets/jit.png",
     "Assets/Unconfirmed 564290.crdownload",
-    "Assets/JVM vs. JDK vs. JRE.jpg",
     "Assets",
-    "JVM vs. JDK vs. JRE 1.jpg",
     "Java"
   ]
 }
