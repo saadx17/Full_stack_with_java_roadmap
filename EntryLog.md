@@ -34,4 +34,7 @@ Today is Friday. So, I've studied hard.
 Completed Data Models, Keys, Relationships, Normalization & Denormalization. Also, I've realized I have to rework JAVA. There are too much information to study. I'll make those shot and easy to understand.
 I'm Out.
 ###### 12:31 PM
-Made a java project using (1-8) Chapters. Reworked JAVA completely.
+Made a java project using (1-8) Chapters. Reworked JAVA completely. Added ACID into database.
+
+##### 2nd May, 2026 | 02:27 PM
+The database roadmap was quite messy and I am trying to fix it. My finals are just at the corner, I might not upload for the next 2 weeks. But I will try my best to stay consistent.
